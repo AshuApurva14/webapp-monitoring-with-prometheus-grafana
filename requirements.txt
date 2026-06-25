@@ -1,5 +1,5 @@
 click==8.4.1
-deepmerge==2.0
+deepmerge==2.1.0
 Markdown==3.10.2
 Pygments==2.20.0
 pymdown-extensions==10.21.3
